@@ -37,6 +37,8 @@ public class LoginPage {
 		driver.findElement(loginBtn).click();
 		//***************** Above code is use to take username and password from config file.*********************//
 		
+
+		 System.Out.Println("This is updated code");
 	}
 
 }
